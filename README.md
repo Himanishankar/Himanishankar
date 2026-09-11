@@ -4,6 +4,13 @@ I'm a beginner Python developer 🐍 <br>
 I created this GitHub profile to gain experience and do what I love.
 I’ll be happy to receive any feedback or code reviews that can help me improve 
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 
 ## 🌐 Socials:
@@ -18,21 +25,10 @@ I’ll be happy to receive any feedback or code reviews that can help me improve
 ![](https://streak-stats.demolab.com/?user=Himanishankar&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Himanishankar&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Himanishankar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Himanishankar&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
