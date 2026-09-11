@@ -1,6 +1,6 @@
 ## Hi 👋,I'm Himani
 
-I'm a beginner Python developer 🐍 
+I'm a beginner Python developer 🐍 <br>
 I created this GitHub profile to gain experience and do what I love.
 I’ll be happy to receive any feedback or code reviews that can help me improve 
 
