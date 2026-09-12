@@ -1,6 +1,7 @@
 ## Hi 👋,I'm Himani
 
 I'm a beginner Python developer 🐍 </br>
+Building my future</br>
 I created this account to learn, look at my progress and get better
 
 <!-- Snake Game Repo View -->
