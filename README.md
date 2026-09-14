@@ -1,7 +1,6 @@
 ## Hi 👋,I'm Himani
 
 I'm a beginner Python developer 🐍 </br>
-One commit at a time</br>
 Building future with progress</br>
 I created this account to learn, look at my progress and get better
 
