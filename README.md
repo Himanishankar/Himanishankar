@@ -1,6 +1,6 @@
 ##                                                             I'm Himani
 
-I created this account to learn, look at my progress and get better.
+I created this account to learn, look at my progress and get better
 
 <!-- Snake Game Repo View -->
 
