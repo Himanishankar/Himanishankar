@@ -7,8 +7,6 @@ I created this account to learn, look at my progress and get better
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -21,7 +19,7 @@ I created this account to learn, look at my progress and get better
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Himanishankar/Himanishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
