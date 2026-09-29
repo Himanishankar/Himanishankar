@@ -4,8 +4,6 @@ I created this account to learn, look at my progress and get better
 
 <!-- Snake Game Repo View -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-
 
 
 <div align="center">
