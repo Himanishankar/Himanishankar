@@ -1,6 +1,3 @@
-##                                                             I'm Himani
-
-I created this account to learn, look at my progress and get better
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
