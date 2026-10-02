@@ -19,9 +19,7 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanishankar&theme=dark" alt="GitHub Streak" />
-</div>
+
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
